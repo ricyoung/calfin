@@ -8,11 +8,26 @@
 
 
 # create three Events
-3.times do |i|
+2.times do |i|
   Event.create(
       name: "Event #{i + 1}", 
       :start => DateTime.now,
       location: "Location #{i + 1}")
+end
+# create three Events
+2.times do |i|
+  Event.create(
+      name: "Upcoming Event #{i + 1}", 
+      :start => Time.now + 10.days,
+      location: "Different Location #{i + 1}")
+end
+
+# create three Events
+1.times do |i|
+  Event.create(
+      name: "Old Event #{i + 1}", 
+      :start => Time.now - 3.days,
+      location: "Old loc #{i + 1}")
 end
 
 # create five Users

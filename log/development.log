@@ -732,3 +732,1702 @@ Processing by CalendarController#index as HTML
   [1m[35mEvent Load (0.4ms)[0m  SELECT "events".* FROM "events"
   Rendered calendar/index.html.erb within layouts/application (6.6ms)
 Completed 200 OK in 81ms (Views: 79.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:12:06 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 607ms (Views: 589.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:07 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:08 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:08 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:08 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:08 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:12:08 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/events/3" for 98.160.200.229 at 2015-05-09 02:12:13 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" INNER JOIN "events_users" ON "users"."id" = "events_users"."user_id" WHERE "events_users"."event_id" = ?  [["event_id", 3]]
+  Rendered events/show.html.erb within layouts/application (31.9ms)
+Completed 200 OK in 74ms (Views: 63.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/events/3/edit" for 98.160.200.229 at 2015-05-09 02:12:16 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 3]]
+  Rendered events/_form.html.erb (25.1ms)
+  Rendered events/edit.html.erb within layouts/application (29.1ms)
+Completed 200 OK in 61ms (Views: 59.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/events" for 98.160.200.229 at 2015-05-09 02:12:19 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 45ms (Views: 44.5ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/events/1" for 98.160.200.229 at 2015-05-09 02:12:23 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"ZfRcf9JYev/Ep8zh1NhZWm7/Wl+mQI1rSX7cu0Wl343vYjhc8+XmFCRPjbd/8EUrI0StvLfdhIn08Lh9o9As+Q==", "id"=>"1"}
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mDELETE FROM "events_users" WHERE "events_users"."event_id" = ?[0m  [["event_id", 1]]
+  [1m[35mSQL (0.1ms)[0m  DELETE FROM "events" WHERE "events"."id" = ?  [["id", 1]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+Redirected to http://52.5.195.159:3000/events
+Completed 302 Found in 11ms (ActiveRecord: 7.2ms)
+
+
+Started GET "/events" for 98.160.200.229 at 2015-05-09 02:12:23 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 40ms (Views: 39.1ms | ActiveRecord: 0.1ms)
+
+
+Started DELETE "/events/3" for 98.160.200.229 at 2015-05-09 02:12:26 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"8wuZWX8y8YJ+mUIhzVea8R9E09Lq4y81wEoCQ+B7W+Z5nf16Xo9taZ5xA3dmf4aAUv8kMft+Jtd9xGaFBg6okg==", "id"=>"3"}
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mDELETE FROM "events_users" WHERE "events_users"."event_id" = ?[0m  [["event_id", 3]]
+  [1m[35mSQL (0.1ms)[0m  DELETE FROM "events" WHERE "events"."id" = ?  [["id", 3]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://52.5.195.159:3000/events
+Completed 302 Found in 10ms (ActiveRecord: 7.4ms)
+
+
+Started GET "/events" for 98.160.200.229 at 2015-05-09 02:12:26 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/events/5" for 98.160.200.229 at 2015-05-09 02:12:28 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"F3It7gdYefmd4Gpw5bpuNp6P1//rRg/GnL3UGzx2dG2d5EnNJuXlEn0IKyZOknJH0zQgHPrbBiQhM7Dd2gOHGQ==", "id"=>"5"}
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mDELETE FROM "events_users" WHERE "events_users"."event_id" = ?[0m  [["event_id", 5]]
+  [1m[35mSQL (0.1ms)[0m  DELETE FROM "events" WHERE "events"."id" = ?  [["id", 5]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://52.5.195.159:3000/events
+Completed 302 Found in 10ms (ActiveRecord: 7.3ms)
+
+
+Started GET "/events" for 98.160.200.229 at 2015-05-09 02:12:28 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/events/new" for 98.160.200.229 at 2015-05-09 02:12:30 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#new as HTML
+  Rendered events/_form.html.erb (7.4ms)
+  Rendered events/new.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/events" for 98.160.200.229 at 2015-05-09 02:12:37 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UfJpnT0R7+JqgsgfNTz9LEshm+TOSWug53ZSuX231wPbZA2+HKxzCYpqiUmeFOFdBppsB9/UYkJa+DZ/m8Ikdw==", "event"=>{"name"=>"Test", "start(1i)"=>"2015", "start(2i)"=>"5", "start(3i)"=>"10", "start(4i)"=>"02", "start(5i)"=>"12", "end(1i)"=>"2015", "end(2i)"=>"5", "end(3i)"=>"9", "end(4i)"=>"02", "end(5i)"=>"12", "location"=>"BHS"}, "commit"=>"Create Event"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "events" ("name", "location", "start", "end", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["name", "Test"], ["location", "BHS"], ["start", "2015-05-10 02:12:00.000000"], ["end", "2015-05-09 02:12:00.000000"], ["created_at", "2015-05-09 02:12:37.890398"], ["updated_at", "2015-05-09 02:12:37.890398"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+Redirected to http://52.5.195.159:3000/events/7
+Completed 302 Found in 11ms (ActiveRecord: 6.8ms)
+
+
+Started GET "/events/7" for 98.160.200.229 at 2015-05-09 02:12:38 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 7]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT "users".* FROM "users" INNER JOIN "events_users" ON "users"."id" = "events_users"."user_id" WHERE "events_users"."event_id" = ?[0m  [["event_id", 7]]
+  Rendered events/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 42ms (Views: 40.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:12:41 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 38ms (Views: 37.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:15:52 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 180ms (Views: 165.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:15:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:17:32 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  Rendered calendar/index.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:19: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:21: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/calendar/index.html.erb:19: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/calendar/index.html.erb:21: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.2ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (26.8ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:18:00 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  Rendered calendar/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:19: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:21: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/calendar/index.html.erb:19: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/calendar/index.html.erb:21: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.2ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (22.6ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:18:21 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  Rendered calendar/index.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 3ms
+
+SyntaxError (/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:20: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/ec2-user/Cal-Final/app/views/calendar/index.html.erb:22: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/calendar/index.html.erb:20: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/calendar/index.html.erb:22: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.5ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (23.1ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:18:28 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"[0m
+  Rendered calendar/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 33ms (Views: 32.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:29 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:18:43 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (17.7ms)
+Completed 500 Internal Server Error in 19ms
+
+ActionView::Template::Error (undefined local variable or method `c' for #<#<Class:0x00000003d7c578>:0x007efda8e28e28>):
+     7:   </h2>
+     8:   <%= calendar_for(@tasks, :row_header => true) do |t| %>
+     9:    
+    10:     <%= c.head('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat') %>
+    11:     <%= c.day(:day_method => :start) do |day, events| %>
+    12:       <%= day.day %>
+    13:       <% events.each do |event| %>
+  app/views/calendar/index.html.erb:10:in `block in _app_views_calendar_index_html_erb__2223705999182330992_69813962653080'
+  app/views/calendar/index.html.erb:8:in `_app_views_calendar_index_html_erb__2223705999182330992_69813962653080'
+
+
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.5ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /home/ec2-user/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (24.4ms)
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CalendarController#index as HTML
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT "events".* FROM "events"[0m
+  Rendered calendar/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:18:48 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:20:06.868923"], ["location", "Location 1"], ["created_at", "2015-05-09 02:20:06.876795"], ["updated_at", "2015-05-09 02:20:06.876795"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:20:06.886405"], ["location", "Location 2"], ["created_at", "2015-05-09 02:20:06.887036"], ["updated_at", "2015-05-09 02:20:06.887036"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:20:06.894842"], ["location", "Location 3"], ["created_at", "2015-05-09 02:20:06.895482"], ["updated_at", "2015-05-09 02:20:06.895482"]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 4"], ["start", "2015-05-09 02:20:06.903519"], ["location", "Location 4"], ["created_at", "2015-05-09 02:20:06.904116"], ["updated_at", "2015-05-09 02:20:06.904116"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 5"], ["start", "2015-05-09 02:20:06.911966"], ["location", "Location 5"], ["created_at", "2015-05-09 02:20:06.912595"], ["updated_at", "2015-05-09 02:20:06.912595"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 6"], ["start", "2015-05-09 02:20:06.920451"], ["location", "Location 6"], ["created_at", "2015-05-09 02:20:06.921042"], ["updated_at", "2015-05-09 02:20:06.921042"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 7"], ["start", "2015-05-09 02:20:06.929354"], ["location", "Location 7"], ["created_at", "2015-05-09 02:20:06.929945"], ["updated_at", "2015-05-09 02:20:06.929945"]]
+  [1m[35m (5.9ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 8"], ["start", "2015-05-09 02:20:06.937088"], ["location", "Location 8"], ["created_at", "2015-05-09 02:20:06.937682"], ["updated_at", "2015-05-09 02:20:06.937682"]]
+  [1m[36m (5.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 9"], ["start", "2015-05-09 02:20:06.944669"], ["location", "Location 9"], ["created_at", "2015-05-09 02:20:06.945286"], ["updated_at", "2015-05-09 02:20:06.945286"]]
+  [1m[35m (5.9ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 10"], ["start", "2015-05-09 02:20:06.952474"], ["location", "Location 10"], ["created_at", "2015-05-09 02:20:06.953039"], ["updated_at", "2015-05-09 02:20:06.953039"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 11"], ["start", "2015-05-09 02:20:06.961486"], ["location", "Location 11"], ["created_at", "2015-05-09 02:20:06.962176"], ["updated_at", "2015-05-09 02:20:06.962176"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 12"], ["start", "2015-05-09 02:20:06.969078"], ["location", "Location 12"], ["created_at", "2015-05-09 02:20:06.969729"], ["updated_at", "2015-05-09 02:20:06.969729"]]
+  [1m[36m (5.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 13"], ["start", "2015-05-09 02:20:06.976740"], ["location", "Location 13"], ["created_at", "2015-05-09 02:20:06.977273"], ["updated_at", "2015-05-09 02:20:06.977273"]]
+  [1m[35m (8.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 14"], ["start", "2015-05-09 02:20:06.987037"], ["location", "Location 14"], ["created_at", "2015-05-09 02:20:06.987645"], ["updated_at", "2015-05-09 02:20:06.987645"]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 15"], ["start", "2015-05-09 02:20:06.995851"], ["location", "Location 15"], ["created_at", "2015-05-09 02:20:06.996465"], ["updated_at", "2015-05-09 02:20:06.996465"]]
+  [1m[35m (7.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 16"], ["start", "2015-05-09 02:20:07.005108"], ["location", "Location 16"], ["created_at", "2015-05-09 02:20:07.005807"], ["updated_at", "2015-05-09 02:20:07.005807"]]
+  [1m[36m (5.4ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 17"], ["start", "2015-05-09 02:20:07.012668"], ["location", "Location 17"], ["created_at", "2015-05-09 02:20:07.013258"], ["updated_at", "2015-05-09 02:20:07.013258"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 18"], ["start", "2015-05-09 02:20:07.020145"], ["location", "Location 18"], ["created_at", "2015-05-09 02:20:07.020835"], ["updated_at", "2015-05-09 02:20:07.020835"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 19"], ["start", "2015-05-09 02:20:07.029161"], ["location", "Location 19"], ["created_at", "2015-05-09 02:20:07.029783"], ["updated_at", "2015-05-09 02:20:07.029783"]]
+  [1m[35m (5.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 20"], ["start", "2015-05-09 02:20:07.036479"], ["location", "Location 20"], ["created_at", "2015-05-09 02:20:07.037183"], ["updated_at", "2015-05-09 02:20:07.037183"]]
+  [1m[36m (5.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 21"], ["start", "2015-05-09 02:20:07.044122"], ["location", "Location 21"], ["created_at", "2015-05-09 02:20:07.044769"], ["updated_at", "2015-05-09 02:20:07.044769"]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 22"], ["start", "2015-05-09 02:20:07.053217"], ["location", "Location 22"], ["created_at", "2015-05-09 02:20:07.054474"], ["updated_at", "2015-05-09 02:20:07.054474"]]
+  [1m[36m (6.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 23"], ["start", "2015-05-09 02:20:07.062952"], ["location", "Location 23"], ["created_at", "2015-05-09 02:20:07.063538"], ["updated_at", "2015-05-09 02:20:07.063538"]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 24"], ["start", "2015-05-09 02:20:07.072493"], ["location", "Location 24"], ["created_at", "2015-05-09 02:20:07.073418"], ["updated_at", "2015-05-09 02:20:07.073418"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 25"], ["start", "2015-05-09 02:20:07.082289"], ["location", "Location 25"], ["created_at", "2015-05-09 02:20:07.083349"], ["updated_at", "2015-05-09 02:20:07.083349"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 26"], ["start", "2015-05-09 02:20:07.091567"], ["location", "Location 26"], ["created_at", "2015-05-09 02:20:07.092363"], ["updated_at", "2015-05-09 02:20:07.092363"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 27"], ["start", "2015-05-09 02:20:07.100772"], ["location", "Location 27"], ["created_at", "2015-05-09 02:20:07.101356"], ["updated_at", "2015-05-09 02:20:07.101356"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 28"], ["start", "2015-05-09 02:20:07.108654"], ["location", "Location 28"], ["created_at", "2015-05-09 02:20:07.109549"], ["updated_at", "2015-05-09 02:20:07.109549"]]
+  [1m[36m (5.3ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 29"], ["start", "2015-05-09 02:20:07.116348"], ["location", "Location 29"], ["created_at", "2015-05-09 02:20:07.117262"], ["updated_at", "2015-05-09 02:20:07.117262"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 30"], ["start", "2015-05-09 02:20:07.124318"], ["location", "Location 30"], ["created_at", "2015-05-09 02:20:07.125198"], ["updated_at", "2015-05-09 02:20:07.125198"]]
+  [1m[36m (5.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:20:07.143646"], ["updated_at", "2015-05-09 02:20:07.143646"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:20:07.152432"], ["updated_at", "2015-05-09 02:20:07.152432"]]
+  [1m[36m (6.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:20:07.161061"], ["updated_at", "2015-05-09 02:20:07.161061"]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:20:07.169986"], ["updated_at", "2015-05-09 02:20:07.169986"]]
+  [1m[36m (5.4ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:20:07.176987"], ["updated_at", "2015-05-09 02:20:07.176987"]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 6"], ["email", "user6@email.com"], ["created_at", "2015-05-09 02:20:07.185706"], ["updated_at", "2015-05-09 02:20:07.185706"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 7"], ["email", "user7@email.com"], ["created_at", "2015-05-09 02:20:07.192897"], ["updated_at", "2015-05-09 02:20:07.192897"]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 8"], ["email", "user8@email.com"], ["created_at", "2015-05-09 02:20:07.201634"], ["updated_at", "2015-05-09 02:20:07.201634"]]
+  [1m[36m (5.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 9"], ["email", "user9@email.com"], ["created_at", "2015-05-09 02:20:07.209077"], ["updated_at", "2015-05-09 02:20:07.209077"]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 10"], ["email", "user10@email.com"], ["created_at", "2015-05-09 02:20:07.217984"], ["updated_at", "2015-05-09 02:20:07.217984"]]
+  [1m[36m (5.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 11"], ["email", "user11@email.com"], ["created_at", "2015-05-09 02:20:07.225338"], ["updated_at", "2015-05-09 02:20:07.225338"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 12"], ["email", "user12@email.com"], ["created_at", "2015-05-09 02:20:07.232608"], ["updated_at", "2015-05-09 02:20:07.232608"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 13"], ["email", "user13@email.com"], ["created_at", "2015-05-09 02:20:07.241152"], ["updated_at", "2015-05-09 02:20:07.241152"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 14"], ["email", "user14@email.com"], ["created_at", "2015-05-09 02:20:07.249259"], ["updated_at", "2015-05-09 02:20:07.249259"]]
+  [1m[36m (6.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 15"], ["email", "user15@email.com"], ["created_at", "2015-05-09 02:20:07.257587"], ["updated_at", "2015-05-09 02:20:07.257587"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:20:20.465387"], ["location", "Location 1"], ["created_at", "2015-05-09 02:20:20.472663"], ["updated_at", "2015-05-09 02:20:20.472663"]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:20:20.482902"], ["location", "Location 2"], ["created_at", "2015-05-09 02:20:20.483541"], ["updated_at", "2015-05-09 02:20:20.483541"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:20:20.491878"], ["location", "Location 3"], ["created_at", "2015-05-09 02:20:20.492506"], ["updated_at", "2015-05-09 02:20:20.492506"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:20:20.507591"], ["updated_at", "2015-05-09 02:20:20.507591"]]
+  [1m[36m (6.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:20:20.515849"], ["updated_at", "2015-05-09 02:20:20.515849"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:20:20.524042"], ["updated_at", "2015-05-09 02:20:20.524042"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:20:20.532137"], ["updated_at", "2015-05-09 02:20:20.532137"]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:20:20.540537"], ["updated_at", "2015-05-09 02:20:20.540537"]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (7.3ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.4ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (5.8ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (7.1ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.3ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (6.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (7.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (5.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (7.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (6.9ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.9ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (7.4ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.8ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (7.2ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (5.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (7.8ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (7.3ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (7.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:20:31.302118"], ["location", "Location 1"], ["created_at", "2015-05-09 02:20:31.309773"], ["updated_at", "2015-05-09 02:20:31.309773"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:20:31.320184"], ["location", "Location 2"], ["created_at", "2015-05-09 02:20:31.320874"], ["updated_at", "2015-05-09 02:20:31.320874"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:20:31.328515"], ["location", "Location 3"], ["created_at", "2015-05-09 02:20:31.329149"], ["updated_at", "2015-05-09 02:20:31.329149"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:20:31.343880"], ["updated_at", "2015-05-09 02:20:31.343880"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:20:31.352233"], ["updated_at", "2015-05-09 02:20:31.352233"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:20:31.360470"], ["updated_at", "2015-05-09 02:20:31.360470"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:20:31.368804"], ["updated_at", "2015-05-09 02:20:31.368804"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:20:31.377181"], ["updated_at", "2015-05-09 02:20:31.377181"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (7.4ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:20:44.955506"], ["location", "Location 1"], ["created_at", "2015-05-09 02:20:44.963114"], ["updated_at", "2015-05-09 02:20:44.963114"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:20:44.973103"], ["location", "Location 2"], ["created_at", "2015-05-09 02:20:44.973749"], ["updated_at", "2015-05-09 02:20:44.973749"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:20:44.980433"], ["location", "Location 3"], ["created_at", "2015-05-09 02:20:44.981007"], ["updated_at", "2015-05-09 02:20:44.981007"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:20:44.996091"], ["updated_at", "2015-05-09 02:20:44.996091"]]
+  [1m[36m (7.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:20:45.005191"], ["updated_at", "2015-05-09 02:20:45.005191"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:20:45.013914"], ["updated_at", "2015-05-09 02:20:45.013914"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:20:45.020980"], ["updated_at", "2015-05-09 02:20:45.020980"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:20:45.029178"], ["updated_at", "2015-05-09 02:20:45.029178"]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (5.6ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (7.5ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (5.4ms)[0m  commit transaction
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:20:53 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 185ms (Views: 170.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:20:54 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.6ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (6.2ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (6.8ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (7.0ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.2ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (5.5ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (6.8ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (6.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (5.5ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (6.8ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.3ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (7.2ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.9ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (6.9ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (7.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (7.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (7.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (6.0ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:22:12.283246"], ["location", "Location 1"], ["created_at", "2015-05-09 02:22:12.290915"], ["updated_at", "2015-05-09 02:22:12.290915"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:22:12.300512"], ["location", "Location 2"], ["created_at", "2015-05-09 02:22:12.301148"], ["updated_at", "2015-05-09 02:22:12.301148"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:22:12.308836"], ["location", "Location 3"], ["created_at", "2015-05-09 02:22:12.309466"], ["updated_at", "2015-05-09 02:22:12.309466"]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_user_id' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (7.3ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (5.4ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (7.7ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (5.8ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (6.8ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.9ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (6.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (5.7ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (7.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (6.9ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (7.0ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.3ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (5.9ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (7.2ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (6.7ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (6.8ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (5.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (7.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (7.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:22:19.796740"], ["location", "Location 1"], ["created_at", "2015-05-09 02:22:19.804490"], ["updated_at", "2015-05-09 02:22:19.804490"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:22:19.814212"], ["location", "Location 2"], ["created_at", "2015-05-09 02:22:19.814958"], ["updated_at", "2015-05-09 02:22:19.814958"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:22:19.822912"], ["location", "Location 3"], ["created_at", "2015-05-09 02:22:19.823515"], ["updated_at", "2015-05-09 02:22:19.823515"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (7.3ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.8ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (7.2ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (6.9ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (6.8ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.3ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (6.8ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (6.7ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (7.0ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (5.7ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (7.1ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.5ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (6.9ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.6ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (6.9ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (7.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (6.8ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (6.8ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (5.6ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (7.4ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.6ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (6.2ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (5.6ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.3ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (7.1ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (7.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (7.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (7.1ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (7.4ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.8ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (7.2ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.8ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (5.5ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (7.1ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (6.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (5.8ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (7.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-19 02:23:14.405846"], ["location", "Location 1"], ["created_at", "2015-05-09 02:23:14.413666"], ["updated_at", "2015-05-09 02:23:14.413666"]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-19 02:23:14.423963"], ["location", "Location 2"], ["created_at", "2015-05-09 02:23:14.424698"], ["updated_at", "2015-05-09 02:23:14.424698"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-19 02:23:14.432398"], ["location", "Location 3"], ["created_at", "2015-05-09 02:23:14.433091"], ["updated_at", "2015-05-09 02:23:14.433091"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:23:14.448013"], ["updated_at", "2015-05-09 02:23:14.448013"]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:23:14.456866"], ["updated_at", "2015-05-09 02:23:14.456866"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:23:14.465711"], ["updated_at", "2015-05-09 02:23:14.465711"]]
+  [1m[36m (5.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:23:14.473107"], ["updated_at", "2015-05-09 02:23:14.473107"]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:23:14.481643"], ["updated_at", "2015-05-09 02:23:14.481643"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.4ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36m (7.8ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.6ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (7.3ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (6.9ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.2ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (5.6ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (6.9ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (7.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (7.5ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (6.8ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.6ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (5.9ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.9ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (7.0ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.6ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (6.9ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (7.0ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (5.6ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (6.9ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-19 02:23:19.229568"], ["location", "Location 1"], ["created_at", "2015-05-09 02:23:19.237033"], ["updated_at", "2015-05-09 02:23:19.237033"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-19 02:23:19.246750"], ["location", "Location 2"], ["created_at", "2015-05-09 02:23:19.247560"], ["updated_at", "2015-05-09 02:23:19.247560"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-19 02:23:19.255111"], ["location", "Location 3"], ["created_at", "2015-05-09 02:23:19.255802"], ["updated_at", "2015-05-09 02:23:19.255802"]]
+  [1m[35m (6.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:23:19.270811"], ["updated_at", "2015-05-09 02:23:19.270811"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:23:19.279341"], ["updated_at", "2015-05-09 02:23:19.279341"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:23:19.288160"], ["updated_at", "2015-05-09 02:23:19.288160"]]
+  [1m[36m (7.2ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:23:19.296762"], ["updated_at", "2015-05-09 02:23:19.296762"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:23:19.305212"], ["updated_at", "2015-05-09 02:23:19.305212"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (5.7ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.4ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (6.8ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (7.3ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-19 02:23:26.815820"], ["location", "Location 1"], ["created_at", "2015-05-09 02:23:26.823557"], ["updated_at", "2015-05-09 02:23:26.823557"]]
+  [1m[35m (6.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-19 02:23:26.832647"], ["location", "Location 2"], ["created_at", "2015-05-09 02:23:26.833348"], ["updated_at", "2015-05-09 02:23:26.833348"]]
+  [1m[36m (5.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-19 02:23:26.840123"], ["location", "Location 3"], ["created_at", "2015-05-09 02:23:26.840728"], ["updated_at", "2015-05-09 02:23:26.840728"]]
+  [1m[35m (6.5ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:23:26.855694"], ["updated_at", "2015-05-09 02:23:26.855694"]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:23:26.864299"], ["updated_at", "2015-05-09 02:23:26.864299"]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:23:26.872807"], ["updated_at", "2015-05-09 02:23:26.872807"]]
+  [1m[36m (7.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:23:26.882113"], ["updated_at", "2015-05-09 02:23:26.882113"]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:23:26.889211"], ["updated_at", "2015-05-09 02:23:26.889211"]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.3ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (5.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.4ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (7.0ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (7.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (6.3ms)[0m  commit transaction
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:23:33 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 189ms (Views: 173.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:23:34 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36m (6.1ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.2ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (7.2ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (6.4ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (5.5ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (7.4ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (6.5ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (5.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (9.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (6.6ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (6.2ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.5ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (7.1ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.7ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (5.5ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (6.7ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (7.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (5.5ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (6.8ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:24:26.349448"], ["location", "Location 1"], ["created_at", "2015-05-09 02:24:26.356693"], ["updated_at", "2015-05-09 02:24:26.356693"]]
+  [1m[35m (6.3ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:24:26.366128"], ["location", "Location 2"], ["created_at", "2015-05-09 02:24:26.366757"], ["updated_at", "2015-05-09 02:24:26.366757"]]
+  [1m[36m (6.2ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:24:26.374101"], ["location", "Location 3"], ["created_at", "2015-05-09 02:24:26.374745"], ["updated_at", "2015-05-09 02:24:26.374745"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 1"], ["start", "2015-05-19 02:24:26.382445"], ["location", "Different Location 1"], ["created_at", "2015-05-09 02:24:26.383130"], ["updated_at", "2015-05-09 02:24:26.383130"]]
+  [1m[36m (6.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Upcoming Event 2"], ["start", "2015-05-19 02:24:26.391188"], ["location", "Different Location 2"], ["created_at", "2015-05-09 02:24:26.391853"], ["updated_at", "2015-05-09 02:24:26.391853"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 3"], ["start", "2015-05-19 02:24:26.399755"], ["location", "Different Location 3"], ["created_at", "2015-05-09 02:24:26.400433"], ["updated_at", "2015-05-09 02:24:26.400433"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:24:26.415757"], ["updated_at", "2015-05-09 02:24:26.415757"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:24:26.424371"], ["updated_at", "2015-05-09 02:24:26.424371"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:24:26.432604"], ["updated_at", "2015-05-09 02:24:26.432604"]]
+  [1m[35m (8.1ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:24:26.442131"], ["updated_at", "2015-05-09 02:24:26.442131"]]
+  [1m[36m (5.3ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:24:26.449048"], ["updated_at", "2015-05-09 02:24:26.449048"]]
+  [1m[35m (6.1ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 1]]
+  [1m[36m (6.6ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 2]]
+  [1m[35m (7.9ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 3]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 4]]
+  [1m[35m (5.1ms)[0m  commit transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 5]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 3], ["user_id", 5]]
+  [1m[36m (6.8ms)[0m  [1mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:24:31.114601"], ["location", "Location 1"], ["created_at", "2015-05-09 02:24:31.121945"], ["updated_at", "2015-05-09 02:24:31.121945"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:24:31.131638"], ["location", "Location 2"], ["created_at", "2015-05-09 02:24:31.132283"], ["updated_at", "2015-05-09 02:24:31.132283"]]
+  [1m[36m (6.4ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 3"], ["start", "2015-05-09 02:24:31.139904"], ["location", "Location 3"], ["created_at", "2015-05-09 02:24:31.140505"], ["updated_at", "2015-05-09 02:24:31.140505"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 1"], ["start", "2015-05-19 02:24:31.148893"], ["location", "Different Location 1"], ["created_at", "2015-05-09 02:24:31.149578"], ["updated_at", "2015-05-09 02:24:31.149578"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Upcoming Event 2"], ["start", "2015-05-19 02:24:31.156204"], ["location", "Different Location 2"], ["created_at", "2015-05-09 02:24:31.156813"], ["updated_at", "2015-05-09 02:24:31.156813"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 3"], ["start", "2015-05-19 02:24:31.164566"], ["location", "Different Location 3"], ["created_at", "2015-05-09 02:24:31.165197"], ["updated_at", "2015-05-09 02:24:31.165197"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:24:31.180501"], ["updated_at", "2015-05-09 02:24:31.180501"]]
+  [1m[35m (6.3ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:24:31.188572"], ["updated_at", "2015-05-09 02:24:31.188572"]]
+  [1m[36m (6.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:24:31.196911"], ["updated_at", "2015-05-09 02:24:31.196911"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:24:31.205239"], ["updated_at", "2015-05-09 02:24:31.205239"]]
+  [1m[36m (6.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:24:31.213652"], ["updated_at", "2015-05-09 02:24:31.213652"]]
+  [1m[35m (5.6ms)[0m  commit transaction
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 1]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 2]]
+  [1m[35m (5.4ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 3]]
+  [1m[36m (7.1ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 4]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 5]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 3], ["user_id", 5]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:24:39 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 184ms (Views: 169.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:24:40 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36m (7.4ms)[0m  [1mCREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.7ms)[0m  CREATE TABLE "events_users" ("user_id" integer, "event_id" integer) 
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (7.6ms)[0m  CREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")
+  [1m[36m (0.1ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+[0m
+  [1m[35m (6.7ms)[0m  CREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (6.0ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar NOT NULL) 
+  [1m[36m (6.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.1ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (7.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150507024358')[0m
+  [1m[35m (7.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000534')
+  [1m[36m (5.7ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000514')[0m
+  [1m[35m (7.4ms)[0m  CREATE TABLE "events" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "start" datetime, "end" datetime, "location" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (6.8ms)[0m  [1mCREATE TABLE "events_users" ("user_id" integer, "event_id" integer) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (7.3ms)[0m  [1mCREATE  INDEX "index_events_users_on_event_id" ON "events_users" ("event_id")[0m
+  [1m[35m (0.1ms)[0m              SELECT sql
+            FROM sqlite_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_events_users_on_event_id' AND type='index'
+
+  [1m[36m (6.7ms)[0m  [1mCREATE  INDEX "index_events_users_on_user_id" ON "events_users" ("user_id")[0m
+  [1m[35m (6.9ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (7.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (7.1ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (6.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150507024358')
+  [1m[36m (7.1ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20150425000534')[0m
+  [1m[35m (7.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20150425000514')
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:25:20.674192"], ["location", "Location 1"], ["created_at", "2015-05-09 02:25:20.681666"], ["updated_at", "2015-05-09 02:25:20.681666"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:25:20.691571"], ["location", "Location 2"], ["created_at", "2015-05-09 02:25:20.692159"], ["updated_at", "2015-05-09 02:25:20.692159"]]
+  [1m[36m (6.6ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Upcoming Event 1"], ["start", "2015-05-19 02:25:20.699901"], ["location", "Different Location 1"], ["created_at", "2015-05-09 02:25:20.700611"], ["updated_at", "2015-05-09 02:25:20.700611"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 2"], ["start", "2015-05-19 02:25:20.708366"], ["location", "Different Location 2"], ["created_at", "2015-05-09 02:25:20.709024"], ["updated_at", "2015-05-09 02:25:20.709024"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Old Event 1"], ["start", "2015-05-06 02:25:20.716774"], ["location", "Old loc 1"], ["created_at", "2015-05-09 02:25:20.717444"], ["updated_at", "2015-05-09 02:25:20.717444"]]
+  [1m[35m (5.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:25:20.732275"], ["updated_at", "2015-05-09 02:25:20.732275"]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:25:20.741158"], ["updated_at", "2015-05-09 02:25:20.741158"]]
+  [1m[35m (7.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:25:20.749914"], ["updated_at", "2015-05-09 02:25:20.749914"]]
+  [1m[36m (5.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:25:20.757184"], ["updated_at", "2015-05-09 02:25:20.757184"]]
+  [1m[35m (6.5ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:25:20.765391"], ["updated_at", "2015-05-09 02:25:20.765391"]]
+  [1m[36m (5.8ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (5.5ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (7.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.4ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (6.9ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (7.1ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Event 1"], ["start", "2015-05-09 02:25:24.629721"], ["location", "Location 1"], ["created_at", "2015-05-09 02:25:24.636952"], ["updated_at", "2015-05-09 02:25:24.636952"]]
+  [1m[35m (6.8ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Event 2"], ["start", "2015-05-09 02:25:24.646809"], ["location", "Location 2"], ["created_at", "2015-05-09 02:25:24.647401"], ["updated_at", "2015-05-09 02:25:24.647401"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Upcoming Event 1"], ["start", "2015-05-19 02:25:24.655149"], ["location", "Different Location 1"], ["created_at", "2015-05-09 02:25:24.655820"], ["updated_at", "2015-05-09 02:25:24.655820"]]
+  [1m[35m (6.6ms)[0m  commit transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)  [["name", "Upcoming Event 2"], ["start", "2015-05-19 02:25:24.663511"], ["location", "Different Location 2"], ["created_at", "2015-05-09 02:25:24.664122"], ["updated_at", "2015-05-09 02:25:24.664122"]]
+  [1m[36m (6.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events" ("name", "start", "location", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Old Event 1"], ["start", "2015-05-06 02:25:24.672168"], ["location", "Old loc 1"], ["created_at", "2015-05-09 02:25:24.672803"], ["updated_at", "2015-05-09 02:25:24.672803"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 1"], ["email", "user1@email.com"], ["created_at", "2015-05-09 02:25:24.687633"], ["updated_at", "2015-05-09 02:25:24.687633"]]
+  [1m[36m (6.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 2"], ["email", "user2@email.com"], ["created_at", "2015-05-09 02:25:24.695984"], ["updated_at", "2015-05-09 02:25:24.695984"]]
+  [1m[35m (6.4ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 3"], ["email", "user3@email.com"], ["created_at", "2015-05-09 02:25:24.703792"], ["updated_at", "2015-05-09 02:25:24.703792"]]
+  [1m[36m (6.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "User 4"], ["email", "user4@email.com"], ["created_at", "2015-05-09 02:25:24.712006"], ["updated_at", "2015-05-09 02:25:24.712006"]]
+  [1m[35m (6.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "users" ("name", "email", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "User 5"], ["email", "user5@email.com"], ["created_at", "2015-05-09 02:25:24.720209"], ["updated_at", "2015-05-09 02:25:24.720209"]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 1], ["user_id", 1]]
+  [1m[35m (5.4ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 1], ["user_id", 2]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 2]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 3]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 2], ["user_id", 3]]
+  [1m[35m (6.9ms)[0m  commit transaction
+  [1m[36mEvent Load (0.1ms)[0m  [1mSELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)  [["event_id", 2], ["user_id", 4]]
+  [1m[36m (6.5ms)[0m  [1mcommit transaction[0m
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events" WHERE "events"."id" = ? LIMIT 1  [["id", 3]]
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", 5]]
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "events_users" ("event_id", "user_id") VALUES (?, ?)[0m  [["event_id", 3], ["user_id", 5]]
+  [1m[35m (6.8ms)[0m  commit transaction
+
+
+Started GET "/" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CalendarController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered calendar/index.html.erb within layouts/application (12.3ms)
+Completed 200 OK in 183ms (Views: 167.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/events.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-097e777bde5a983b70cc585220b06bab4f52d6eaebc0c9dc18c88eee3b8be630.css?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-42521291f7c4753b9ea8c7a910f02e4a5d65679764d59911a82db7a9d1920068.css?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-7076824d86be91eb1ef495238b9b1f4e8b3a6b4e5545d369226366adb6d5f73f.css?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/calendar.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/events.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 98.160.200.229 at 2015-05-09 02:25:31 +0000
+Cannot render console from 98.160.200.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255

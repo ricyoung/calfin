@@ -1,10 +1,12 @@
 <div id="calendar">
+<h2> Calendar </h2>
   <h2 id="month">
       <%= link_to "<", root_path(month: (@date.prev_month).strftime("%Y-%m-%d")) %>
     <%= @date.strftime("%b %Y") %>
     <%= link_to ">", root_path(month: (@date.next_month).strftime("%Y-%m-%d")) %>
   </h2>
   <%= calendar_for @events, year: @date.year, month: @date.month do |c| %>
+   
     <%= c.head('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat') %>
     <%= c.day(:day_method => :start) do |day, events| %>
       <%= day.day %>
@@ -13,4 +15,5 @@
       <% end %>
     <% end %>
   <% end %>
+
 </div>

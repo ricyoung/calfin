@@ -9,7 +9,7 @@
 
 #calendar td,
 #calendar th {
-  font-family: "Lucida Grande",arial,helvetica,sans-serif;
+  font-family: Verdana, Helvetica, Arial;
   font-size: 10px;
   padding: 6px;
   border: 1px solid #999;
@@ -17,7 +17,7 @@
 
 #calendar th {
   background: #DDD;
-  color: #666;
+  color: #1A1A1A;
   text-align: center;
   width: 14.2857142857143%;
   font-size: 20px;
@@ -45,11 +45,12 @@
 #calendar #month a, #calendar #month a:hover {
   text-decoration: none;
   padding: 0 10px;
-  color: #999;
+  color: #0066FF;
 }
 
 #calendar .today {
-  background-color: #D7F2FF;
+  background-color: #FFB2B2;
+
 }
 
 #calendar ul {

@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>EventCalendar</title>
+  <title>CS 270 Event Calendar</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+<body >
 
-<div id="container">
+    <div id="main-container" class="container">
+
   <%= yield %>
 </div>
+
+
 
 </body>
 </html>

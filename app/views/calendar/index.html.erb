@@ -1,5 +1,5 @@
-<div id="calendar">
-<h2> Calendar </h2>
+  <div id="calendar">
+<h2 class="text-primary"> Calendar - UNLV</h2>
   <h2 id="month">
       <%= link_to "<", root_path(month: (@date.prev_month).strftime("%Y-%m-%d")) %>
     <%= @date.strftime("%b %Y") %>
@@ -17,3 +17,7 @@
   <% end %>
 
 </div>
+
+
+  </body>
+</html>

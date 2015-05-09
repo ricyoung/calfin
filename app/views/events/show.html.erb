@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @event.name %>
+</p>
+
+<p>
+  <strong>Start:</strong>
+  <%= @event.start %>
+</p>
+
+<p>
+  <strong>End:</strong>
+  <%= @event.end %>
+</p>
+
+<p>
+  <strong>Location:</strong>
+  <%= @event.location %>
+</p>
+
+<p>
+<strong>Users:</strong>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <% @event.users.each do |user| %>
+    <tr>
+      <td><%= user.name %></td>
+      <td><%= user.email %></td>
+    </tr>
+  <% end %>
+</table>
+</p>
+
+<%= link_to 'Edit', edit_event_path(@event) %> |
+<%= link_to 'Back', events_path %>

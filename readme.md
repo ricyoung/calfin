@@ -1,3 +1,9 @@
+#Richard Young
+# UNLV CS 270 - Calendar Done
+
+ I installed bootstrap so control some formatting issue and changed some other non-funcational things. The Calander works the same as requested. 
+
+
 # Event Calendar - Phase 2
 
 In this final phase we have two goals:
